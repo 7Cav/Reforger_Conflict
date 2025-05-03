@@ -1,0 +1,8 @@
+GameProject {
+ ID "Cavconflict"
+ GUID "654629189953F7B3"
+ TITLE "Cav conflict"
+ Dependencies {
+  "629B2BA37EFFD577" "58D0FB3206B6F859"
+ }
+}
