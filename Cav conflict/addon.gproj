@@ -3,6 +3,20 @@ GameProject {
  GUID "654629189953F7B3"
  TITLE "Cav conflict"
  Dependencies {
-  "629B2BA37EFFD577" "58D0FB3206B6F859"
+  "629B2BA37EFFD577" "58D0FB3206B6F859" "5B02128D896F7DE8" "5E389BB9F58B79A6"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }
